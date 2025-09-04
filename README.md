@@ -50,10 +50,10 @@ The app combines a clean user experience with a modern Android architecture, mak
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screen1.png" width="22%" />
-  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screen2.png" width="22%" />
-  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screen3.png" width="22%" />
-  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screen4.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/EmirPetek/ParqApp/main/screen1.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/EmirPetek/ParqApp/main/screen2.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/EmirPetek/ParqApp/main/screen3.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/EmirPetek/ParqApp/main/screen4.png" width="22%" />
 </p>
 
 
