@@ -37,7 +37,7 @@ The app combines a clean user experience with a modern Android architecture, mak
 ### Cloud Services
 - **Firebase Analytics** – User behavior tracking  
 - **Firebase Crashlytics** – Real-time crash reports  
-- **Firebase Remote Config** *(planned)* – Dynamic feature management
+- **Firebase Remote Config**  – Dynamic feature management
 
 ### Other
 - **AdMob** – Banner & Native ads for monetization
