@@ -48,7 +48,14 @@ The app combines a clean user experience with a modern Android architecture, mak
 
 ## 📱 Screenshots
 
-> *(Add your screenshots here, e.g. from `/screenshots` folder in the repo)*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screenshots/screen1.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screenshots/screen2.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screenshots/screen3.png" width="22%" />
+  <img src="https://raw.githubusercontent.com/yourusername/parq-app/main/screenshots/screen4.png" width="22%" />
+</p>
+
 
 ---
 
